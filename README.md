@@ -1,9 +1,14 @@
+
 Ejercicio de Practica
 
-El ejercicio esta desarrollado en Laravel 7 con Vue JS
+El ejercicio esta desarrollado en Laravel 7 con Vue Js.
 
-Solo hay que clonar el repositorio y correr las migraciones para generar las tablas de la BD
+Hay que crear una BD llamada evaluacion.
 
-La BD se llama evaluacion
+Clonar el repositorio y correr las migraciones para generar las tablas de la BD.
 
-Se anexo un archivo .txt llamado proveedores con el formato para derlos de alta
+Hay que correr el comando npm install y npm run dev para compilar los archivos de Vue Js.
+
+Se anexo un archivo .txt en la carpeta docs con el formato para dar de alta los proveedores.
+
+Levantar el servidor de Laravel php artisan serve
